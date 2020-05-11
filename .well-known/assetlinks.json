@@ -1,0 +1,14 @@
+[{
+	"relation": ["delegate_permission/common.handle_tt_urls"],
+	"target": {
+		"namespace": "android_app",
+		"package_name": "com.deeplinktest",
+		"sha256_cert_fingerprints": ["A3:2C:5E:CC:60:68:40:00:93:99:76:8B:71:70:CE:CF:02:08:49:AE:41:E8:79:A3:55:A3:E4:EC:C8:18:D7:51"]
+	}
+}, {
+	"relation": ["delegate_permission/common.handle_tt_urls"],
+	"target": {
+		"namespace": "web",
+		"site": "https://kenshirm.github.io/tt.txt"
+	}
+}]
