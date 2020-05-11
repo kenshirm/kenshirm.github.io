@@ -9,6 +9,6 @@
 	"relation": ["delegate_permission/common.handle_tt_urls"],
 	"target": {
 		"namespace": "web",
-		"site": "https://kenshirm.github.io/tt.txt"
+		"site": "https://kenshirm.github.io/"
 	}
 }]
