@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "WSF8C32N4B.org.htc.deepLinkTest",
+                "paths": [
+                    "/tt.txt"
+                ]
+            }
+        ]
+    }
+}
